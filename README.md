@@ -15,7 +15,7 @@
 - 🏅 honor:
   * Liaoning Vocational Skills Competition - Mobile Application Development - Gold Medal
   * Dalian Vocational Skills Competition - Mobile Application Development - Gold Medal
-  * National Vocational Skills Competition - Mobile Application Development and Design Silver Medal
+  * National Vocational Skills Competition - Mobile Application Development and Design Silver Medal - Silver Medal
 
 
 - 🎶 music：
