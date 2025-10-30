@@ -1,104 +1,73 @@
-### <div align="center">I'm Junbo, I am an undergraduate student majoring in software engineering 🧑‍🎓 hope to become a full-site engineer 🧑‍💻</div>
+
+
+# <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=50&pause=1000&color=9B59B6&vCenter=true&width=600&lines=uuo00_n;HuangJunBo" alt="Typing SVG" />
+
+
+### <div align="center">👋 I'm Junbo, I am an undergraduate student majoring in software engineering 🧑‍🎓 hope to become a full-site engineer 🧑‍💻</div>
 
 - 🏅 honor:
-    * Liaoning Vocational Skills Competition - Mobile Application Development - Gold Medal
-    * Dalian Vocational Skills Competition - Mobile Application Development - Gold Medal
-    * National Vocational Skills Competition - Mobile Application Development and Design Silver Medal - Silver Medal
+    * 2023 National Vocational Skills Competition – Mobile Application Development – Silver Medal
+    * 21st Liaoning Provincial Vocational Skills Competition – Mobile Application Design and Development – Second Prize
+    * 14th Dalian Vocational Skills Competition – Mobile Application Development – Gold Medal
+    * 2nd Liaoning Provincial Vocational Skills Competition – Mobile Application Development – Gold Medal
+    * People's Republic of China Vocational Skills Competition – Mobile Application Development – Top 10
+    * WorldSkills Competition – Mobile Application Development – Member of China National Training Team
 
-
-- 🎶 music：
-  HIP-HOP [@uu](https://music.163.com/#/user/home?id=608344210)
-  <br/>
+- 📚 currently_learning:
+    * Machine Learning
+    * AI Agent Development
+    * Go Language (Golang)
 
 ## My Skill Set
 
-<table><tr>
-<td valign="top" width="33%">
+<p align="center">
+  <b>Frontend Tech Stack</b><br>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+</p>
 
-<div align="center"><h2>Frontend</h2></div>
-<div align="center">
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-  </a>
-  <a href="https://flutter.dev/" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
-  </a>
-  <a href="https://jquery.com/" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" height="50" />
-  </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank" style="margin: 10px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" height="50" />
-</a>
-</div>
+<p align="center">
+  <b>Backend Languages & Frameworks</b><br>
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+</p>
 
-</td>
-<td valign="top" width="33%">
+<p align="center">
+  <b>Database & Caching Systems</b><br>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</p>
 
-<div align="center"><h2>Backend</h2></div>
-
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-  <div align="center"><h2>DevOps</h2></div>
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <a href="https://developer.apple.com/documentation/uikit" target="_blank" style="margin: 10px;">
-      <img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="UIKit" height="50" />
-    </a>
-    <a href="https://www.microsoft.com/windows/" target="_blank" style="margin: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" height="50" />
-    </a>
-    <a href="https://ubuntu.com/" target="_blank" style="margin: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="50" />
-    </a>
-    <a href="https://www.kali.org/" target="_blank" style="margin: 10px;">
-      <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" height="50" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" style="margin: 10px;">
-      <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-    </a>  
-    <a href="https://www.docker.com/" target="_blank" style="margin: 10px;">
-      <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-    </a>
-  </div>
-</td>
-</tr></table>
-
-<br/>  
+<p align="center">
+  <b>DevOps & System Environment</b><br>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+</p>
 
 ## Connect with me
 
