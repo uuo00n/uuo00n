@@ -1,7 +1,7 @@
 # Hi, I'm Junbo Huang (`uuo00n`)
 
-Software Engineering undergraduate focused on mobile and full-stack engineering, with AI-assisted delivery workflows.
-我是 vibe coding 的狂热爱好者。
+Software Engineering undergraduate focused on mobile and full-stack product delivery, with strong hands-on experience in AI-assisted engineering workflows.
+I am a dedicated Vibe Coding practitioner, using AI collaboration to ship faster while maintaining engineering quality.
 
 ## Professional Snapshot
 
