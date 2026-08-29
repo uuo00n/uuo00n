@@ -86,7 +86,7 @@
       "dataIndex": 0
     },
     {
-      "project_name": "LawAgent 法律智能体平台",
+      "project_name": "LexCore法律场景Agent",
       "project_role": "大连东软信息学院项目组",
       "project_time": "2025 - 至今",
       "project_desc": "面向法律服务场景构建智能化 Agent 平台，围绕法律咨询、法规检索、案件分析、材料理解等业务流程，基于大语言模型与多智能体协同架构，实现法律知识增强、任务自动拆解和智能分析能力。",
