@@ -32,6 +32,11 @@
       "dataIndex": 1
     },
     {
+      "award_info": "中国大学生服务外包创新创业大赛-人工智能专项赛道-三等奖",
+      "award_time": "2025",
+      "dataIndex": 2
+    },
+    {
       "award_info": "HarmonyOS认证-鸿蒙应用开发初级开发工程师",
       "award_time": "2025",
       "dataIndex": 2
@@ -71,32 +76,32 @@
     {
       "work_time": ["", ""],
       "company_name": "大连东软信息学院",
-      "work_desc": "主修课程：\nJava程序设计、Java全栈应用开发、程序设计基础、数据结构、网络技术基础、面向对象高级开发、大型数据库开发与管理、Web技术与网络建站、Java项目开发实践、JavaEE企业开源框架开发、Linux网络操作系统、软件工程、人工智能通识、智能体应用开发、人机交互设计、数据库原理与应用、云计算",
+      "work_desc": "主修课程：\nJava程序设计、Java全栈应用开发、程序设计基础、数据结构、网络技术基础、面向对象高级开发、大型数据库开发与管理、Web前段综合开发实践、Web技术与网络建站、Java项目开发实践、Java Web开发、JavaEE企业开源框架实战、Linux网络操作系统、软件工程、人工智能通识、智能体应用开发、人机交互设计、数据库原理与应用、云计算",
       "dataIndex": 1
     }
   ],
   "skillList": [],
   "projectList": [
     {
-      "project_name": "工业级异物识别检测系统",
-      "project_role": "大连理工大学科研组",
+      "project_name": "异物识别检测系统",
+      "project_role": "大连理工大学科研组（负责Android开发）",
       "project_time": "2024 - 至今",
       "project_desc": "面向工业质检场景的异物识别检测平台，支持检测任务管理、图像采集、模型推理、结果展示、异常标注、历史追溯与数据留痕，提升现场检测流程的数字化、自动化和可追溯能力。目前已申请软件著作权",
       "project_content": "1.负责 Android 平板端与手机端应用开发，基于 Jetpack Compose 构建现代化 UI 架构，实现检测任务流转、图像采集、检测结果可视化、历史记录查询、异常状态反馈等核心业务页面，并完成手机与平板多端适配和交互优化。2.基于 Kotlin 结合 Android Jetpack 生态完成移动端核心功能开发，采用 MVVM 架构进行业务分层，使用 Room 实现检测任务、历史记录及检测结果的本地持久化存储，结合 DataStore 管理用户配置和应用状态，提升应用离线访问能力与数据可靠性。3.通过 Kotlin 调用 Android 原生能力，实现相机采集、设备通信、文件管理等功能，并配合 C++/OpenCV 完成图像预处理和设备侧算法能力调用；同时通过 RESTful API 实现移动端与服务端数据同步，保障检测数据完整、可查询、可追踪。",
       "dataIndex": 0
     },
     {
-      "project_name": "LexCore法律场景Agent",
-      "project_role": "大连东软信息学院项目组",
+      "project_name": "多智能体协同重构智慧法律服务平台",
+      "project_role": "大连东软信息学院（Agent 开发）",
       "project_time": "2025 - 至今",
       "project_desc": "面向法律服务场景构建智能化 Agent 平台，围绕法律咨询、法规检索、案件分析、材料理解等业务流程，基于大语言模型与多智能体协同架构，实现法律知识增强、任务自动拆解和智能分析能力。",
-      "project_content": "主要负责 AI Agent 服务架构设计与核心链路开发。基于 FastAPI 搭建 Agent 服务接口层，使用 LangChain 构建大模型应用能力，通过 LangGraph 实现多智能体工作流编排与状态管理；设计法律咨询 Agent、法规检索 Agent、案件分析 Agent 等角色协同流程，实现用户意图识别、任务拆分、工具调用、结果汇总和多轮对话管理。结合得理法律法规数据库 API 构建法律知识检索工具，通过 Tool Calling 调用外部法律数据源获取相关法律条文、司法解释和案例信息，并结合 RAG 流程完成知识增强生成，降低模型幻觉问题。负责文档处理、知识检索、上下文管理及 Agent 调用链路设计，同时结合 PostgreSQL、Redis 管理用户会话、任务状态和 Agent 执行记录，实现法律智能服务流程的可追踪和可扩展。",
+      "project_content": "主要负责法律智能体（Legal Agent）架构设计与核心链路开发，基于 FastAPI + LangGraph 构建有状态 Agent Workflow，实现“意图识别 → 任务规划 → Agent 协作 → Tool Calling → 知识检索 → 结果校验 → 答案生成”的完整执行链路。设计 Supervisor / Router + Multi-Agent 协作架构，将法律咨询、法规检索、案件分析等能力拆分为专业 Agent，通过任务拆解与动态路由实现复杂法律任务的协同执行；基于 ReAct Agent Loop 实现工具自主选择、调用及结果反馈。对接得理法律法规数据库 API，将法规、司法解释、案例等能力封装为 Agent Tools，并结合 RAG 完成 Chunking、Embedding、Top-K 检索 ，降低法律场景下的模型幻觉。负责 Agent Context Engineering 与 Memory 设计，基于 State 管理多轮对话、任务上下文及工具结果，结合 PostgreSQL + Redis 实现会话持久化、状态恢复及 Agent 执行 Trace，并完善工具重试、异常处理与结果校验机制。",
       "dataIndex": 1
     }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "技术栈：Java、Kotlin、Python、Jetpack Compose、Flutter\n具备较强的学习能力与技术实践能力，持续关注 AI 应用开发与工程化方向\n掌握 Vibe Coding 开发流程，熟练使用agent工具以及coding cli等工具，熟练使用mcp，与skills prompt；\n积极参与 OpenClaw、One OPC 等 AI 社区活动及 Trae·大连等黑客松赛事，致力于技术创新与交流"
+    "aboutme_desc": "技术栈：Java、Kotlin、Jetpack Compose、Python、LangChain、LangGraph\n具备较强的学习能力与技术实践能力，持续关注LLM 以及 AI Agent方向\n掌握 Vibe Coding 开发流程，熟练使用agent工具以及coding cli等工具，熟练使用mcp，与skills prompt；\n积极参与 OpenClaw、One OPC 等 AI 社区活动及 Trae·大连等黑客松赛事，致力于技术创新与交流\n并曾在 Trae · 大连、世界技能大赛集训基地开展 AI Coding 技术讲座"
   },
   "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
 }
